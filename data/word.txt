@@ -1,0 +1,10 @@
+hello world
+hello flink
+hello hadoop
+hello hdfs
+hello kafka
+how are you
+i am fine thanks
+and you
+i am ok
+thank you

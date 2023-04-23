@@ -1,13 +1,7 @@
-* 本项目适用于Flink初学入门
-* 项目包介绍：
-    * dataset： DataSet API 使用
-    * datastream： DataStream API 使用
-    * practise：Flink练习小demo
-    * sink： 使用Flink Sink API连接外部系统
-    * source：使用Flink Source API连接外部系统
-    * state：使用State API进行Flink状态编程
-    * table_sql_api：顶层FlinkSQL & TableAPI的使用
-    * transform：Flink转换算子介绍使用
-    * window：Flink窗口、水印等介绍使用
-* 项目介绍如何使用Flink API进行一些基本的操作，如DataSet、FlinkSQL & TableAPI等，并附有使用demo
-* 更多大数据相关技术，以及技术交流请移步笔者主页：https://wangyingkang.github.io/
+`Flink`学习、实践笔记，以下为 `module` 介绍：
+* flink-common:  项目公共基础包，包含实体类、工具类等定义；
+* flink-core:  flink核心api使用，包含 `DataStream/DataSet` API, `transfrom`转换算子、`Source/Sink` API  等的使用 ；
+* flink-practise：flink实践demo等；
+* flink-sql：顶层`FlinkSQL & TableAPI`的使用
+* flink-state：使用`State` API进行Flink状态编程
+* flink-window：Flink窗口、水印等介绍使用
